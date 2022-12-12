@@ -1,0 +1,14 @@
+
+.name{
+text-transform:uppercase;
+}
+.text{
+text-decoration:underline;
+}
+body{
+background-image:url("nature.jpg");
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:top;
+width:1200px;
+}
